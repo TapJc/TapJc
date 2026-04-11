@@ -21,10 +21,3 @@ I'm a graduate of Bradley University from Illinois
   <img src = "https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width = "40"/>
 </div>
-
----
-
-## 🔥 My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TapJc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
